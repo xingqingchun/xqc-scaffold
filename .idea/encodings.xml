@@ -2,10 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/len-activiti" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/len-blog" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/len-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/len-sys" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/len-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-activiti" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-blog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xqc-web" charset="UTF-8" />
   </component>
 </project>

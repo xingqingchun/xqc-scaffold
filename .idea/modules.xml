@@ -7,7 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/len-core/len-core.iml" filepath="$PROJECT_DIR$/len-core/len-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/len-sys/len-sys.iml" filepath="$PROJECT_DIR$/len-sys/len-sys.iml" />
       <module fileurl="file://$PROJECT_DIR$/len-web/len-web.iml" filepath="$PROJECT_DIR$/len-web/len-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lenosp.iml" filepath="$PROJECT_DIR$/lenosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-activiti/xqc-activiti.iml" filepath="$PROJECT_DIR$/xqc-activiti/xqc-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-admin/xqc-admin.iml" filepath="$PROJECT_DIR$/xqc-admin/xqc-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-blog/xqc-blog.iml" filepath="$PROJECT_DIR$/xqc-blog/xqc-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-core/xqc-core.iml" filepath="$PROJECT_DIR$/xqc-core/xqc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-generator/xqc-generator.iml" filepath="$PROJECT_DIR$/xqc-generator/xqc-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-lenosp.iml" filepath="$PROJECT_DIR$/xqc-lenosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-sys/xqc-sys.iml" filepath="$PROJECT_DIR$/xqc-sys/xqc-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xqc-web/xqc-web.iml" filepath="$PROJECT_DIR$/xqc-web/xqc-web.iml" />
     </modules>
   </component>
 </project>
